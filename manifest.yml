@@ -1,0 +1,6 @@
+---
+applications: 
+- name: janussvc_pcfwebapp_4
+  path: ./WebContent/target/janussvc_pcfwebapp_4.war
+  memory: 1024m
+  instances: 1
